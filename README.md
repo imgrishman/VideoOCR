@@ -1,19 +1,18 @@
-# VideoOCR
-                                                                                                    I.J. Wireless and Microwave Technologies, 2023, 1, 27-35
+                                    # VideoOCR
+                  I.J. Wireless and Microwave Technologies, 2023, 1, 27-35
 
-                                                                                            Published Online on February 8, 2023 by MECS Press (http://www.mecs-press.org/)
+         Published Online on February 8, 2023, by MECS Press (http://www.mecs-press.org/)
           
-                                                                                                                  DOI: 10.5815/ijwmt.2023.01.03
-
-                                                                                This work is open access and licensed under the Creative Commons CC BY License. Volume 13 (2023), Issue 1
+                            DOI: 10.5815/ijwmt.2023.01.03
+    This work is open access and licensed under the Creative Commons CC BY License. Volume 13 (2023), Issue 1
                                                             
-                                                                                              Implementing Video OCR along with SWT Technique for Video indexing and Analysis
-                                                                                                                          Paruchuru Grishman*
-                                                                                                                  IARE/IT/Hyderabad, Telangana, 500043
-                                                                                                                      E-mail: 18951A1228@iare.ac.in
-                                                                                                              ORCID iD: https://orcid.org/0000-0002-1493-2824
+        Implementing Video OCR along with SWT Technique for Video indexing and Analysis
+                               Paruchuru Grishman*
+                          IARE/IT/Hyderabad, Telangana, 500043
+                             E-mail: 18951A1228@iare.ac.in
+                      ORCID iD: https://orcid.org/0000-0002-1493-2824
 
-                                                                                  Received: 04 June, 2022; Revised: 29 July, 2022; Accepted: 25 August, 2022; Published: 08 February, 2023
+          Received: 04 June, 2022; Revised: 29 July, 2022; Accepted: 25 August, 2022; Published: 08 February, 2023
 
 Abstract: 
 The main purpose of this paper is to expand the usage of OCR (Optical character recognition) as this is only
